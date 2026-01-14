@@ -19,7 +19,7 @@ export default function LandingPage() {
         {/* --- TOMBOL KEMBALI KE PORTAL (NEW) --- */}
         <div className="flex items-center gap-4">
           <a
-            href="http://localhost:3000" // Link ke PORTAL (Port 3000)
+            href="https://pln-portal-mocha.vercel.app/" // Link ke PORTAL (Port 3000)
             className="flex items-center gap-2 text-gray-500 hover:text-pln-primary font-medium text-sm transition-colors group"
           >
             <div className="w-8 h-8 rounded-full bg-gray-100 flex items-center justify-center group-hover:bg-pln-primary/10 transition-colors">
